@@ -14,6 +14,7 @@
   * [License](#license)
   
   ![Budget Tracker](public/assets/budget.jpg)
+  Application link : https://budget-trackerz1.herokuapp.com/
   ## Installation
   
   Application is deployed to heroku, no need to install for use. If anyone wished to contribute to the project, all dependencies are listed in package.json. npm install command is all thats necessary.
@@ -37,6 +38,7 @@
   ## Questions?
   
   If you have any questions, please contact me with the information below:
+  Email: oballematt@gmail.com
 
   Github [@oballematt](https://github.com/oballematt)
   
