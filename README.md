@@ -24,6 +24,16 @@
   
   The User will enter in a transaction name and a transaction amount. Then they will click either add funds or subtract funds to add or subtract from budget. A chart at the bottom of the page will be dyncamically updated as data is entered.
   
+  ## Techonology
+    * MonogDB
+    * HTML
+    * CSS
+    * JavaScript ES6
+    * NodeJs
+    * Express
+     
+    
+  
   
   ## Contribution
   
